@@ -83,10 +83,7 @@ html {
     border-bottom: 4px solid var(--lighting-color);
   }
 
-.hero_image img{
-    border-radius: 400px;
-    height: 40rem;
-}
+
 
 
 #hero .container{
